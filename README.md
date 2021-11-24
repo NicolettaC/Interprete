@@ -1,4 +1,4 @@
-# Interprete:
+# Interprete
 
 Università di Pisa Department of Computer Science.
 
